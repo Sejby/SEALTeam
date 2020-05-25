@@ -1,0 +1,22 @@
+#paticka{
+    color: white;
+    text-align: justify;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+footer{
+    background: black;
+    width: 100%;
+    bottom: 0;
+    margin-top: 10%;
+
+}
+
+footer img{
+    width: 180px;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 120px;
+}

@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("obrazky/signup-image.jpg");
+}
+
+#sendmessagediv{
+    padding-top: 260px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sendmessagediv button{
+    width: 200px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+#sendmessagediv h1{
+    padding-bottom: 10px;
+    color: white;
+}
+
+#textareaprispevku{
+    margin-top: 10px;
+    height: 190px;
+    width: 600px;
+}

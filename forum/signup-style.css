@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("obrazky/signup-image.jpg");
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#registrdiv{
+    padding-top: 260px;
+    width: 18%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#registrdiv input{
+    display: block;
+    width: 250px;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+#odkaz{
+    color: red;
+    display: block;
+    padding-left: 150px;
+    padding-top: 5px;
+    opacity: 1;
+    font-weight: bold;
+}
+
+#registrdiv button{
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+#registrdiv h1{
+    color: white;
+}
